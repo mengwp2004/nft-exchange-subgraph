@@ -2,10 +2,14 @@
 
 
 ## 1. Install the Graph CLI
+```
 npm install -g @graphprotocol/graph-cli
+```
 
 ## 2. Initialize your Subgraph
+```
 graph init --product hosted-service --from-example
+```
 
 ## 3. write you ubgraph
 ```
@@ -29,4 +33,6 @@ https://cloud.hasura.io/public/graphiql
 ```
 
 ## 6 参考
+```
 https://thegraph.com/docs/en/cookbook/quick-start/
+```
