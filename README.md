@@ -1,5 +1,8 @@
 # Example Subgraph
 
+## sub graph web 
+https://thegraph.com/hosted-service/subgraph/mengwp2004/nftstudy
+
 
 ## 1. Install the Graph CLI
 ```
@@ -32,7 +35,7 @@ graph deploy --product hosted-service mengwp2004/nftstudy
 https://cloud.hasura.io/public/graphiql
 ```
 
-## 6 参考
+## 7 参考
 ```
 https://thegraph.com/docs/en/cookbook/quick-start/
 ```
